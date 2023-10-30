@@ -1,12 +1,12 @@
 ### Hi there 👋, My Name Is Md.Waliul Islam Tonmoy
-#### MERN Stack Developer | Front-End Developer | Full Stack Developer
-Hello, myself  Md.Waliul Islam Tonmoy. I am working as a professional Web developer. I have a good communication skills . I have 1 years of experience on working React and Nodejs and other web technologies and accomplished over 10+ projects.
+#### FULL Stack Developer | Front-End Developer | Back-End Developer
+Hello, myself  Md.Waliul Islam Tonmoy. I am working as a professional Web developer. I have a good communication skills . I have 1 years of experience on working React and Nodejs django and other web technologies and accomplished over 10+ projects.
 
-Skills: NODE JS / REACT / JS / HTML / CSS/ BOOTSTRAP/ MERN STACK / REACT NATIVE
+Skills: NODE JS / Django / REACT / JS / HTML / CSS/ BOOTSTRAP/ tailwind css / REACT NATIVE
 
 - 🔭 I’m currently working on E-Commarce 
-- 🌱 I’m currently learning React Native Mobile Application 
-- 👯 I’m looking to collaborate on POS SOFTWARE 
+- 🌱 I’m currently learning React Full Stack Application 
+- 👯 I’m looking to collaborate on  SOFTWARE 
 - 💬 Ask me about python | javascript | java | c | c++ | react | nodejs |  
 - 📫 How to reach me: tonmoykhandiu@gmail.com 
 
