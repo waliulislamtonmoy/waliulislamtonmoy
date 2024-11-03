@@ -1,13 +1,13 @@
 ### Hi there 👋, My Name Is Md.Waliul Islam Tonmoy
 #### FULL Stack Developer | Front-End Developer | Back-End Developer
-Hello, myself  Md.Waliul Islam Tonmoy. I am working as a professional Web developer. I have a good communication skills . I have 1 years of experience on working React and Nodejs django and other web technologies and accomplished over 10+ projects.
+Hello, myself  Md.Waliul Islam Tonmoy. I am working as a professional Web developer. I have a good communication skills . I have  experience on working React and  django and other web technologies and accomplished over Many projects.
 
-Skills: NODE JS / Django / REACT / JS / HTML / CSS/ BOOTSTRAP/ tailwind css / REACT NATIVE
+Skills:  Django / REACT / JS / HTML / CSS/ BOOTSTRAP/ tailwind css / MYSQL
 
 - 🔭 I’m currently working on E-Commarce 
 - 🌱 I’m currently learning React Full Stack Application 
 - 👯 I’m looking to collaborate on  SOFTWARE 
-- 💬 Ask me about python | javascript | java | c | c++ | react | nodejs |  
+- 💬 Ask me about python | javascript | java | c | c++ | react | django | mysql  
 - 📫 How to reach me: tonmoykhandiu@gmail.com 
 
 
